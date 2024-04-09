@@ -1,0 +1,38 @@
+
+body {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    background: rgb(20,20,20);
+    font-family: "Helvetica Neue", "Roboto Mono", "Poppins", sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  * {
+    box-sizing: border-box;
+    outline: none;
+    user-select: none;
+  }
+  
+  
+  * {
+    box-sizing: border-box;
+    outline: none;
+    user-select: none;
+  }
+  
+  #container {
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+  }
+  
